@@ -1,0 +1,14 @@
+site_name: My Docs
+site_url: https://www.mydocssite.com/
+nav:
+    - Home: index.md
+    - Tutorials:
+      - Tutorial 1: tutorial-1.md
+      - Tutorial 2: tutorial-2.md
+      - Tutorial 3: tutorial-3.md
+    - How-to Guides:
+      - Guide 1: guide/guide-1.md
+      - Guide 2: guide/guide-2.md
+      - Guide 3: guide/guide-3.md
+theme:
+  name: material
